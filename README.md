@@ -1,6 +1,10 @@
 ## Hola!
 
-Soy Axel, mucha gente me llama Alex, Alexis, Alexander, pero soy Axel, soy un programador de Lavalle, Mendoza, en Argentina, egresado del [IES 9-024](https://ies9024-infd.mendoza.edu.ar/). Me gusta desarrollar en Android, aunque puedo programar en varias plataformas. Actualmente Trabajo en Eventbrite
+Soy Axel, mucha gente me llama Alex, Alexis, Alexander, pero soy Axel, soy un programador de Lavalle, Mendoza, en Argentina, egresado del [IES 9-024](https://ies9024-infd.mendoza.edu.ar/). Me gusta mucho producir musica, leer, y soy fan de Stephen King.
+
+Me gusta desarrollar en Android, aunque puedo programar en varias plataformas, me siento muy cómodo en backend. 
+
+Actualmente Trabajo en Eventbrite.
 
 He desarrollado algunas plataformas importantes para mi departamento, como Horarios Lavalle y Delivery Lavalle.
 
