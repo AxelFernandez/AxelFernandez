@@ -4,7 +4,7 @@ Soy Axel, mucha gente me llama Alex, Alexis, Alexander, pero soy Axel, soy un pr
 
 Me gusta desarrollar en Android, aunque puedo programar en varias plataformas, me siento muy cómodo en backend. 
 
-Actualmente Trabajo en Eventbrite.
+Actualmente Trabajo en [Eventbrite](https://www.github.com/eventbrite).
 
 He desarrollado algunas plataformas importantes para mi departamento, como Horarios Lavalle y Delivery Lavalle.
 
