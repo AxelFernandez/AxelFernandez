@@ -43,6 +43,6 @@ Soy Fan de la filosofia de programas libres y de codigo abierto, es por ello que
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AxelFernandez&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelFernandez&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelfernandez&hide=HTML,CSS,TSQL)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AxelFernandez.AxelFernandez)
