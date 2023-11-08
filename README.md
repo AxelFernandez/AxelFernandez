@@ -4,7 +4,7 @@ Soy Axel, mucha gente me llama Alex, Alexis, Alexander, pero soy Axel, soy un pr
 
 Me gusta desarrollar en Android, aunque puedo programar en varias plataformas, me siento muy cómodo en backend. 
 
-Actualmente Trabajo en [Eventbrite](https://www.github.com/eventbrite).
+Actualmente Trabajo en [Mercadolibre](https://www.github.com/MercadoLibre).
 
 He desarrollado algunas plataformas importantes para mi departamento, como Horarios Lavalle y Delivery Lavalle.
 
@@ -41,8 +41,5 @@ Soy Fan de la filosofia de programas libres y de codigo abierto, es por ello que
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AxelFernandez&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelfernandez&hide=HTML,CSS,TSQL,Php,javascript)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AxelFernandez.AxelFernandez)
